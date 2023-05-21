@@ -1,10 +1,8 @@
-import requests
-
 import os
 import requests
 
 # API key
-API_KEY = ''
+API_KEY = 'CSQFxipaoGm2alEaJbfqpT5X8yHwftoP'
 # Input File
 PHONE_FILE = 'input/phones.txt'
 
